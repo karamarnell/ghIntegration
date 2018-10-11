@@ -34,5 +34,6 @@
   "Path to JSON config file" : "Ruta al archivo de configuración JSON",
   "Show help" : "Mostrar ayuda",
   "Show version number" : "Mostrar número de versión",
-  "Making an edit" : "Me pregunto qué pasará"
+  "Making an edit" : "Me pregunto qué pasará",
+  "Another edit" : "guay"
 }
