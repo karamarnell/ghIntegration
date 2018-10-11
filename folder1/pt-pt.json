@@ -1,38 +1,3 @@
 {
-  "Commands:" : "Comandos:",
-  "Options:" : "Opções:",
-  "Examples:" : "Exemplos:",
-  "boolean" : "boleano",
-  "count" : "contagem",
-  "string" : "corda",
-  "number" : "número",
-  "array" : "array",
-  "required" : "requeridos",
-  "default:" : "padrão:",
-  "choices:" : "escolhas:",
-  "generated-value" : "valor gerado",
-  "Not enough non-option arguments: got %s, need at least %s" : "Não é suficiente argumentos não-opção: tenho %s, preciso de pelo menos %s",
-  "Too many non-option arguments: got %s, maximum of %s" : "Muitos argumentos não opcionais: tem %s, máximo de %s",
-  "Missing argument value: %s" : {
-    "one" : "Valor do argumento ausente: %s",
-    "other" : "Valores de argumentos ausentes: %s"
-  },
-  "Missing required argument: %s" : {
-    "one" : "Argumento obrigatório ausente: %s",
-    "other" : "Argumentos obrigatórios em falta: %s"
-  },
-  "Unknown argument: %s" : {
-    "one" : "Argumento desconhecido: %s",
-    "other" : "Argumentos desconhecidos: %s"
-  },
-  "Invalid values:" : "Valores inválidos:",
-  "Argument: %s, Given: %s, Choices: %s" : "Argumento: %s, Dado: %s, Opções: %s",
-  "Argument check failed: %s" : "Verificação de argumento falhou: %s",
-  "Implications failed:" : "Implicações falhadas:",
-  "Not enough arguments following: %s" : "Não há argumentos suficientes a seguir: %s",
-  "Invalid JSON config file: %s" : "Arquivo de configuração JSON inválido: %s",
-  "Path to JSON config file" : "Caminho para o arquivo de configuração JSON",
-  "Show help" : "Mostre ajuda",
-  "Show version number" : "Mostrar número da versão",
-  "Making an edit" : "Eu me pergunto o que vai acontecer"
+  "blacklist" : "testando"
 }
