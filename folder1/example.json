@@ -34,5 +34,6 @@
   "Path to JSON config file": "Path to JSON config file",
   "Show help": "Show help",
   "Show version number": "Show version number", 
-  "Making an edit": "I wonder what will happen"
+  "Making an edit": "I wonder what will happen", 
+  "Another edit": "cool"
 }
