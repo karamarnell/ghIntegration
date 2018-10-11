@@ -33,5 +33,6 @@
   "Invalid JSON config file: %s" : "Archivo de configuración JSON no válido: %s",
   "Path to JSON config file" : "Ruta al archivo de configuración JSON",
   "Show help" : "Mostrar ayuda",
-  "Show version number" : "Mostrar número de versión"
+  "Show version number" : "Mostrar número de versión",
+  "Making an edit" : "Me pregunto qué pasará"
 }
